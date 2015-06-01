@@ -1,3 +1,10 @@
+firmware-nonfree (0.43+rpi1) jessie; urgency=low
+
+  * Add brcmfmac43143.bin
+  * Update to linux-support-3.18.0-trunk
+
+ -- Serge Schneider <serge@raspberrypi.org>  Mon, 01 Jun 2015 17:07:20 +0100
+
 firmware-nonfree (0.43) unstable; urgency=medium
 
   * iwlwifi: Add Intel Wireless 3160, 7260 and 7265 firmware version

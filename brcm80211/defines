@@ -12,9 +12,10 @@ files:
  brcm/brcmfmac4335-sdio.bin
  brcm/brcmfmac43362-sdio.bin
  brcm/brcmfmac4354-sdio.bin
+ brcm/brcmfmac43143.bin
 longdesc: wireless network cards with the Broadcom BCM4313, BCM43224,
- BCM43225, BCM43241, BCM4329, BCM4330, BCM4334 or BCM4335 chips, supported
- by the brcmsmac or brcmfmac driver
+ BCM43225, BCM43241, BCM43143, BCM4329, BCM4330, BCM4334 or BCM4335 chips,
+ supported by the brcmsmac or brcmfmac driver
 uri: http://git.kernel.org/?p=linux/kernel/git/firmware/linux-firmware.git
 
 [brcm/bcm43xx-0.fw_base]
@@ -49,3 +50,7 @@ desc: Broadcom BCM4335 firmware
 
 [brcm/brcmfmac4354-sdio.bin_base]
 desc: Broadcom BCM4354 firmware
+
+[brcm/brcmfmac43143.bin_base]
+desc: Broadcom BCM43143 firmware
+
