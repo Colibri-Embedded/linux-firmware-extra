@@ -11,6 +11,7 @@ files:
  rt3090.bin
  rt3290.bin
  rt73.bin
+ mt7601u.bin
 longdesc: wireless network cards with the Ralink RT2501 [Turbo], RT2600,
  RT5201 [Turbo], RT5600, RT5201USB, RT2800P[D], RT2700P[D], RT2700E[D],
  RT2800E[D], RT2800U[D] or RT3000E[D] chipsets or RT3070/RT3071/RT3072
@@ -50,3 +51,8 @@ version: 1
 [rt73.bin_base]
 desc: Ralink RT2571W/RT2671 (RT2501USB/RT5201USB chipset) firmware
 version: 1.8
+
+[mt7601u.bin_base]
+desc: Mediatek MT7601U firmware
+version: 1
+

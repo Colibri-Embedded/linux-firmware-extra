@@ -4,7 +4,7 @@
 011e84d674641cb1f604932172c0d210  libertas/defines
 60dc4a682e5b9990a3eba42f1551943b  adi/defines
 68b0f11b98b6147dcbc953c76fa64860  bnx2x/defines
-9b3e5e6055f9783c5777c3a77d0288f9  ralink/defines
+be2604536d162cbca69f097ee6210ae8  ralink/defines
 9a5eaf759397f91eccb6197019f6b5ab  ti-connectivity/defines
 c05a94d03d6fe84d1855bbc5018ebb1e  linux-nonfree/defines
 7cbc1d42bacbae9bae884c641af1871f  realtek/defines

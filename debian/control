@@ -818,6 +818,7 @@ Description: Binary firmware for Ralink wireless cards
   * Ralink RT3290 firmware, version 1 (rt3290.bin)
   * Ralink RT2571W/RT2671 (RT2501USB/RT5201USB chipset) firmware,
     version 1.8 (rt73.bin)
+  * Mediatek MT7601U firmware, version 1 (mt7601u.bin)
 Homepage: http://git.kernel.org/?p=linux/kernel/git/firmware/linux-firmware.git
 Multi-Arch: ${firmware:Multi-Arch}
 
