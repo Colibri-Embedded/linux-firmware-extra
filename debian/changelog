@@ -1,3 +1,9 @@
+firmware-nonfree (0.43+rpi3) jessie; urgency=low
+
+  * Add brcmfmac43430-sdio.bin
+
+ -- Serge Schneider <serge@raspberrypi.org>  Fri, 18 Sep 2015 10:37:17 +0100
+
 firmware-nonfree (0.43+rpi2) jessie; urgency=low
 
   * Add mt7601u.bin

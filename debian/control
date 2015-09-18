@@ -204,8 +204,8 @@ Conflicts:
 Description: Binary firmware for Broadcom 802.11 wireless cards
  This package contains the binary firmware for wireless network cards with
  the Broadcom BCM4313, BCM43224, BCM43225, BCM43241, BCM43143, BCM4329,
- BCM4330, BCM4334 or BCM4335 chips, supported by the brcmsmac or brcmfmac
- driver.
+ BCM4330, BCM4334, BCM4335 or BCM43430 chips, supported by the brcmsmac or
+ brcmfmac driver.
  .
  Contents:
   * Broadcom 802.11 firmware, version 610.812 (brcm/bcm43xx-0.fw)
@@ -221,6 +221,8 @@ Description: Binary firmware for Broadcom 802.11 wireless cards
   * Broadcom BCM43362 firmware (brcm/brcmfmac43362-sdio.bin)
   * Broadcom BCM4354 firmware (brcm/brcmfmac4354-sdio.bin)
   * Broadcom BCM43143 firmware (brcm/brcmfmac43143.bin)
+  * Broadcom BCM43430 firmware (brcm/brcmfmac43430-sdio.bin)
+  * NVRAM file for BCM943430 (brcm/brcmfmac43430-sdio.txt)
 Homepage: http://git.kernel.org/?p=linux/kernel/git/firmware/linux-firmware.git
 Multi-Arch: ${firmware:Multi-Arch}
 

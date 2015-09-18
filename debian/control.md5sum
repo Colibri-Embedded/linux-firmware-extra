@@ -17,7 +17,7 @@ dcb402c6044d6ccea3527610afc9b5ef  ivtv/defines
 11d385c02798fae300454e323379073a  samsung/defines
 6185ebf3e6881a4449691f4439faf520  bnx2/defines
 05ad8243e8854b3c22a6c2d72700e705  atheros/defines
-caeda375ba35ab624e13f68597fbc319  brcm80211/defines
+2991857c72d75c0991c8226041a496c1  brcm80211/defines
 d8774ed4e00aaa7653288b36d22d59b5  qlogic/copyright
 06fed59eb9588c979efffd5884f87c25  netxen/LICENSE
 d934c5881815c89f0ed946179315fa35  libertas/LICENSE
