@@ -1,3 +1,9 @@
+firmware-nonfree (0.43+rpi4) jessie; urgency=medium
+
+  * Updated brcmfmac43430 files
+
+ -- Serge Schneider <serge@raspberrypi.org>  Thu, 25 Feb 2016 05:44:26 +0000
+
 firmware-nonfree (0.43+rpi3) jessie; urgency=low
 
   * Add brcmfmac43430-sdio.bin
